@@ -2,7 +2,7 @@
 #include <limits.h>
 int main()
 {   
-    int max =INT_MIN;
+    int max =INT_MIN; 
     int arr[]={-23, -3, -4, -7, -9, -11, 0, -18, -123}, index_no;
     for(int i=0; i<9; i++) // --> representing index number
     {
