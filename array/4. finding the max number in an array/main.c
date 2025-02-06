@@ -16,7 +16,7 @@ int main()
     
     
     // if array is empty, print the message
-    // end the program
+    // end the program 
     
     int a[]={};
     if(sizeof(a)==0)
