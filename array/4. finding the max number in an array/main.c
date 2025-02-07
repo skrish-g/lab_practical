@@ -15,7 +15,7 @@ int main()
     printf("The maximum number in the array is %d, which is present at index number %d.", max, index_no);
     
     // if array is empty, print the message
-    // end the program 
+    // end the program
     
     int a[]={};
     if(sizeof(a)==0)
